@@ -1,9 +1,9 @@
-# C++ Snippets for Sublime Text
+# Google C++ Style Snippets for Sublime Text
 
 This package adds some useful snippets for Sublime Text for C++11. It matches the following style:
 
 ```cpp
-if(/* condition */) {
+if (/* condition */) {
     /* code */
 }
 ```
